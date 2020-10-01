@@ -60,7 +60,7 @@ setup(
     install_requires=[
         'docopt==0.6.2',
         'boto3>=1.4.2',
-        'PyYAML==3.12',
+        'PyYAML==5.1',
         'jinja2==2.8',
         'gitpython',
         'lambda-packages==0.13.0',
