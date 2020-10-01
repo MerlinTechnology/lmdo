@@ -1,4 +1,4 @@
-lmdo
+lmdo _Wallace
 ====
 A CD/CI tool for developing micro-services components using AWS Lambda function (python2.7) and managing other AWS resources.
 
